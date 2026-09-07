@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraReceiverKimi", "CameraReceiverKimi.csproj", "{577D8A4B-90D7-489F-81BC-6DB7132FBC1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577D8A4B-90D7-489F-81BC-6DB7132FBC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577D8A4B-90D7-489F-81BC-6DB7132FBC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577D8A4B-90D7-489F-81BC-6DB7132FBC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577D8A4B-90D7-489F-81BC-6DB7132FBC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D031F94A-3F17-4258-8EC5-4913FDDF15BE}
+	EndGlobalSection
+EndGlobal
